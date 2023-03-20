@@ -1,0 +1,11 @@
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\bin\Debug\Win_form_20-03-2023_process.exe.config
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\bin\Debug\Win_form_20-03-2023_process.exe
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\bin\Debug\Win_form_20-03-2023_process.pdb
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20_03_2023_process.Form1.resources
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20_03_2023_process.Properties.Resources.resources
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.csproj.GenerateResource.cache
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.exe
+C:\Users\profi\Documents\GitHub\Win_form_20-03-2023_process\obj\Debug\Win_form_20-03-2023_process.pdb
